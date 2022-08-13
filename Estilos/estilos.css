@@ -1,0 +1,139 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+body{
+    background-color: ghostwhite;
+    }
+
+    header{
+        background-color: rgb(245, 120, 37);
+        padding: 50px;
+        margin-top: 0%;
+    }
+    nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    }
+
+    ul li{
+    list-style-type: none;
+    }
+    
+    a{
+        text-decoration: none;
+        padding: 20px;
+        color: white;
+    }
+
+    li{
+        display: inline-block;
+    }
+
+    section{
+    padding: 40px;
+    margin: 40px 40px 40px 40px;
+    border: 15px;
+    flex-direction: row;
+    }
+
+    h1{
+        font-size: 40px;
+        text-align: center;
+        color: rgb(245, 120, 37);
+        padding: 40px;
+        margin: 30px 30px 30px 30px
+}
+    
+.Airzoom1{
+    margin: 5px;
+    padding:5px;
+    border: 10px;
+    background-color: rgb(245, 120, 37);
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    margin-right: 130px;
+    justify-content: center;
+}
+.solar{
+    margin: 5px;
+    padding: 5px;
+    border: 10px;
+    background-color: rgb(245, 120, 37);
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    right: 100px;
+    margin-right: 130px;
+    justify-content: center;
+}
+
+.revolution{
+    margin: 5px;
+    padding: 5px;
+    border: 10px;
+    background-color: rgb(245, 120, 37);
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    margin-right: 10px;
+    justify-content: center;
+}
+
+.card1{
+    display: flex;
+    flex-direction:row
+}
+.pie1{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap
+    
+}
+.card2{
+    display: flex;
+}
+
+.card3{
+    display: flex;
+}
+
+
+
+
+
+
+
+footer{
+    padding: 25px;
+    margin-top: 55px;
+    border: 40px;
+    background-color: rgb(245, 120, 37);
+}
+
+.icofb{
+    margin: 5;
+    padding: auto;
+    border: 5px;
+    width: 48px;
+    height: auto;
+}
+
+.icoinst{
+    margin: 5;
+    padding: auto;
+    border: 5px;
+    width: 48px;
+    height: auto;
+}
+
+h3{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-style: normal;
+    text-align:left
+}
