@@ -118,4 +118,47 @@ h3{
     font-style: normal;
     text-align:left
 }
+.btn{
+    background-color: rgb(245, 120, 37);
+    display:inline-flexbox
+}
+
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    max-width: 1900px;
+}
+
+.cardm{
+    width: 100%;
+    margin:30px;
+    padding: -5px;;
+    border-radius: 6px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+    cursor: default;
+    transition:all 400ms ease;
+}
+
+.cardm:hover{
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+    transform:translateY(-3%)
+}
+
+.Underm{
+    width: 50%;
+    height: 50px;
+}
+
+.img{
+    margin: 15px;
+    padding: auto;
+
+}
+
+
+
 
