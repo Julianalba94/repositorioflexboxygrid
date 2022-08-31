@@ -1,0 +1,11 @@
+footer{
+    padding: 25px;
+    margin-top: 55px;
+    border: 40px;
+    background-color: rgb(245, 120, 37);
+    @media(min: width 500px;) {
+        padding: 25px;
+        margin-top: 55px;
+        border: 40px;
+    }
+}
