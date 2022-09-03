@@ -49,6 +49,12 @@ body {
   background-color: ghostwhite;
 }
 
+.h1{
+  color: orange;
+  display: flex;
+  flex-direction: row;
+}
+
 .Airzoom1 {
   margin: 5px;
   padding: 5px;
@@ -170,6 +176,3 @@ h3 {
   padding: auto;
 }/*# sourceMappingURL=Style.css.map */
 
-.h1{
-  color: orange;
-}

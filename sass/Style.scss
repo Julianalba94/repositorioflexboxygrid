@@ -7,6 +7,11 @@
 
 $ancho:250px;
 
+.h1{
+    display: grid;
+    grid-template-columns: 50px;
+}
+
 .Airzoom1{
     width:$ancho/2;
     height: 150px;
